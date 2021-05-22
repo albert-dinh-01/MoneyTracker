@@ -1,0 +1,7 @@
+venv
+purchases.db
+buffer.txt
+__pycache__
+.idea/.DS_Store
+.DS_Store
+.idea/
