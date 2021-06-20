@@ -6,7 +6,7 @@ This app takes the user's expenses and stores the data in a database. This app c
 1. Clone the project using:
 ```git clone```
 2. In a command line terminal, type:
-```cd MoneyTracker``` 
+```cd MoneyTracker``` then 
 ``` python3 main.py```
 
 For first time usage, uncomment ```dbmodule.make_table(conn, cret)``` in ```main()``` of main.py to initialize the table.
